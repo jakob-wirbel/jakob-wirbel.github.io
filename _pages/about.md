@@ -29,7 +29,7 @@ model trained on one dataset be transferred to another dataset.
 
 Outside of the lab I can be found mostly in the __bouldering gym__ in
 Heidelberg or somewhere outdoors. Furthermore, some friends and I are trying
-to brew __our own beers__ at home :beers:, including two successful pale
+to brew __our own beers__ at home, including two successful pale
 ales, an interesting stout, and one questionable lager so far.   
 I am reading mostly __sci-fi and fantasy__ literature (especially from
 [Alastair Reynolds](http://www.alastairreynolds.com/); if you don't know him,
