@@ -9,8 +9,24 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+## 2019
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Thomas Sebastian Benedikt Schmidt, Matthew Robert Hayward, Luis Pedro
+Coelho, Simone S Li, Paul Igor Costea, Anita Yvonne Voigt, __Jakob Wirbel__,
+Oleksandr M Maistrenko, Renato JC Alves, Emma Bergsten, Carine de Beaufort,
+Iradj Sobhani, Anna Heintz-Buschart, Shinichi Sunagawa, Georg Zeller, Paul
+Wilmes, Peer Bork   
+[Extensive transmission of microbes along the gastrointestinal tract](https://elifesciences.org/articles/42693)  
+_eLife (published online 2019-02-12)_
+
+## 2018
+
+__Jakob Wirbel__, Pedro Cutillas, Julio Saez-Rodriguez  
+[Phosphoproteomics-Based Profiling of Kinase Activities in Cancer Cells.](https://link.springer.com/protocol/10.1007%2F978-1-4939-7493-1_6)  
+_Cancer Systems Biology pp 103-132_
+
+## 2015
+
+Véronique Gaudreault, __Jakob Wirbel__, Armando Jardim, Petra Rohrbach, Tatiana Scorza  
+[Red Blood Cells Preconditioned with Hemin Are Less Permissive to Plasmodium Invasion In Vivo and In Vitro](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140805)  
+_PLoS ONE 10(10): e0140805_
