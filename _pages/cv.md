@@ -9,51 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+## Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- _Since September 2017_  
+Ph.D candidate in the [Zeller group](https://www.embl.de/research/units/scb/zeller/)
+at EMBL  
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- _October 2014 - July 2017_  
+M.S. in Molecular Biotechnology, University of Heidelberg  
+Master thesis in the group of
+[Julio Saez-Rodriguez](http://saezlab.org/), working on logic models
+based on phosphoproteomics data from perturbation experiments
+
+- _October 2011 - July 2014_  
+B.S. in Molecular Biotechnology, University of Heidelberg  
+Bachelor thesis in the group of
+[Magnus von Knebel-Doeberitz](https://www.klinikum.uni-heidelberg.de/UEberblick.108609.0.html?&L=0),
+working on microsatellite instability in colorectal carcinoma
