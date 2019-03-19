@@ -16,7 +16,7 @@ Thomas SB Schmidt, Matthew R Hayward, Luis P Coelho, Simone S Li, Paul I
 Costea, Anita Y Voigt, __Jakob Wirbel__, Oleksandr M Maistrenko, Renato JC
 Alves, Emma Bergsten, Carine de Beaufort, Iradj Sobhani, Anna Heintz-Buschart,
 Shinichi Sunagawa, Georg Zeller, Paul Wilmes, Peer Bork   
-_eLife (published online 2019-02-12)_
+_eLife 2019;8:e42693_
 
 ## 2018
 
