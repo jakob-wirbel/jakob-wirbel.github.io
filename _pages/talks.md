@@ -5,6 +5,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+_April 2019_  
+__Meta-analysis of colorectal cancer metagenomics studies reveals robust
+microbial biomarkers__ at the
+[3rd Workshop on Statistical and Algorithmic Challenges in Microbiome Data Analysis](https://www.simonsfoundation.org/event/3rd-workshop-on-statistical-and-algorithmic-challenges-in-microbiome-data-analysis/)
 
 _September 2018_   
 __Meta-analysis of colorectal cancer metagenomic studies__ at

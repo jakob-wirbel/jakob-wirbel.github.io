@@ -11,6 +11,33 @@ author_profile: true
 
 ## 2019
 
+__[Meta-analysis of fecal metagenomes reveals global microbial signatures
+that are specific for colorectal cancer](https://www.nature.com/articles/s41591-019-0406-6)__  
+__Jakob Wirbel__, Paul Theodor Pyl, Ece Kartal, Konrad Zych, Alireza Kashani,
+Alessio Milanese, Jonas S. Fleck, Anita Y. Voigt, Albert Palleja,
+Ruby Ponnudurai, Shinichi Sunagawa, Luis Pedro Coelho, Petra Schrotz-King,
+Emily Vogtmann, Nina Habermann, Emma Niméus, Andrew M. Thomas, Paolo Manghi,
+Sara Gandini, Davide Serrano, Sayaka Mizutani, Hirotsugu Shiroma,
+Satoshi Shiba, Tatsuhiro Shibata, Shinichi Yachida, Takuji Yamada,
+Levi Waldron, Alessio Naccarati, Nicola Segata, Rashmi Sinha,
+Cornelia M. Ulrich, Hermann Brenner, Manimozhiyan Arumugam,
+Peer Bork, Georg Zeller  
+_Nature Medicine [Epub ahead of print]_
+
+__[Metagenomic analysis of colorectal cancer datasets identifies cross-cohort
+microbial diagnostic signatures and a link with choline degradation](https://www.nature.com/articles/s41591-019-0405-7)__  
+Andrew Maltez Thomas, Paolo Manghi, Francesco Asnicar, Edoardo Pasolli,
+Federica Armanini, Moreno Zolfo, Francesco Beghini, Serena Manara,
+Nicolai Karcher, Chiara Pozzi, Sara Gandini, Davide Serrano, Sonia Tarallo,
+Antonio Francavilla, Gaetano Gallo, Mario Trompetto, Giulio Ferrero,
+Sayaka Mizutani, Hirotsugu Shiroma, Satoshi Shiba, Tatsuhiro Shibata,
+Shinichi Yachida, Takuji Yamada, __Jakob Wirbel__, Petra Schrotz-King,
+Cornelia M. Ulrich, Hermann Brenner, Manimozhiyan Arumugam, Peer Bork,
+Georg Zeller, Francesca Cordero, Emmanuel Dias-Neto, João Carlos Setubal,
+Adrian Tett, Barbara Pardini, Maria Rescigno, Levi Waldron,
+Alessio Naccarati, Nicola Segata  
+_Nature Medicine [Epub ahead of print]_
+
 __[Extensive transmission of microbes along the gastrointestinal tract](https://elifesciences.org/articles/42693)__  
 Thomas SB Schmidt, Matthew R Hayward, Luis P Coelho, Simone S Li, Paul I
 Costea, Anita Y Voigt, __Jakob Wirbel__, Oleksandr M Maistrenko, Renato JC
