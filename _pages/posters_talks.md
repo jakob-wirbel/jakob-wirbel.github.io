@@ -28,7 +28,7 @@ the
 (You can find the pdf file
 [here](https://github.com/jakob-wirbel/jakob-wirbel.github.io/blob/master/files/2018-06_poster_ihmc.pdf))
 
-_October 2019_
+_October 2019_  
 __SIAMCAT: Statistical Inference of Associations between Microbial Communities
 And host phenoTypes__ at the [Keystone Symposium "Microbiome: Therapeutic
 Implications"](https://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1696)
