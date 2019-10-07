@@ -120,7 +120,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - files
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -139,6 +138,7 @@ exclude:
   - gulpfile.js
   - LICENSE
   - log
+  - files
   - node_modules
   - package.json
   - Rakefile
