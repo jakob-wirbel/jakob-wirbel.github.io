@@ -21,7 +21,7 @@ Satoshi Shiba, Tatsuhiro Shibata, Shinichi Yachida, Takuji Yamada,
 Levi Waldron, Alessio Naccarati, Nicola Segata, Rashmi Sinha,
 Cornelia M. Ulrich, Hermann Brenner, Manimozhiyan Arumugam,
 Peer Bork, Georg Zeller  
-_Nature Medicine [Epub ahead of print]_
+_Nature Medicine 2019;25;pages679–689_
 
 __[Metagenomic analysis of colorectal cancer datasets identifies cross-cohort
 microbial diagnostic signatures and a link with choline degradation](https://www.nature.com/articles/s41591-019-0405-7)__  
@@ -35,7 +35,7 @@ Cornelia M. Ulrich, Hermann Brenner, Manimozhiyan Arumugam, Peer Bork,
 Georg Zeller, Francesca Cordero, Emmanuel Dias-Neto, João Carlos Setubal,
 Adrian Tett, Barbara Pardini, Maria Rescigno, Levi Waldron,
 Alessio Naccarati, Nicola Segata  
-_Nature Medicine [Epub ahead of print]_
+_Nature Medicine 2019;25;pages667-678_
 
 __[Extensive transmission of microbes along the gastrointestinal tract](https://elifesciences.org/articles/42693)__  
 Thomas SB Schmidt, Matthew R Hayward, Luis P Coelho, Simone S Li, Paul I
