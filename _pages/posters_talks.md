@@ -21,14 +21,14 @@ the [EMBO | EMBL Symposium: The Human Microbiome](https://www.embo-embl-symposia
 
 # Posters
 
+_October 2019_  
+__SIAMCAT: Statistical Inference of Associations between Microbial Communities
+And host phenoTypes__ at the [Keystone Symposium "Microbiome: Therapeutic
+Implications"](https://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1696)
+
 _June 2018_   
 __Meta-Analysis of Colorectal Cancer Metagenomics Studies__ at the Meeting of
 the
 [International Human Microbiome Consortium 2018](http://apc.ucc.ie/ihmc-2018/)   
 (You can find the pdf file
 [here](https://github.com/jakob-wirbel/jakob-wirbel.github.io/blob/master/files/2018-06_poster_ihmc.pdf))
-
-_October 2019_  
-__SIAMCAT: Statistical Inference of Associations between Microbial Communities
-And host phenoTypes__ at the [Keystone Symposium "Microbiome: Therapeutic
-Implications"](https://www.keystonesymposia.org/index.cfm?e=web.Meeting.Program&meetingid=1696)
