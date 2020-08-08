@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-_February 2020_
+_February 2020_  
 The Zeller team organized the course on metagenomic bioinformatics, the
 materials for which can be found
 [in this gitlab repo](https://git.embl.de/grp-zeller/metag_course)

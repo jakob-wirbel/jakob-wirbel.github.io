@@ -10,16 +10,15 @@ You can also find my articles on <u><a href="https://scholar.google.de/citations
 ## 2020
 
 __[Metabolic models predict bacterial passengers in colorectal
-cancer](https://link.springer.com/article/10.1186/s40170-020-0208-9)__
+cancer](https://link.springer.com/article/10.1186/s40170-020-0208-9)__  
 <sup>Daniel R. Garza, Rahwa Taddese, __Jakob Wirbel__, Georg Zeller,
-Annemarie Boleij, Martijn A Huynen, Bas E Dutilh </sup>
+Annemarie Boleij, Martijn A Huynen, Bas E Dutilh </sup>  
 _Cancer & Metabolism 8_
 
 ## 2019
 
 __[Meta-analysis of fecal metagenomes reveals global microbial signatures
 that are specific for colorectal cancer](https://www.nature.com/articles/s41591-019-0406-6)__  
-
 <sup>__Jakob Wirbel__, Paul Theodor Pyl, Ece Kartal, Konrad Zych, Alireza Kashani,
 Alessio Milanese, Jonas S. Fleck, Anita Y. Voigt, Albert Palleja,
 Ruby Ponnudurai, Shinichi Sunagawa, Luis Pedro Coelho, Petra Schrotz-King,
@@ -28,7 +27,7 @@ Sara Gandini, Davide Serrano, Sayaka Mizutani, Hirotsugu Shiroma,
 Satoshi Shiba, Tatsuhiro Shibata, Shinichi Yachida, Takuji Yamada,
 Levi Waldron, Alessio Naccarati, Nicola Segata, Rashmi Sinha,
 Cornelia M. Ulrich, Hermann Brenner, Manimozhiyan Arumugam,
-Peer Bork, Georg Zeller</sup>
+Peer Bork, Georg Zeller</sup>  
 _Nature Medicine 2019; 25; pages 679–689_
 
 __[Metagenomic analysis of colorectal cancer datasets identifies cross-cohort
@@ -42,25 +41,25 @@ Shinichi Yachida, Takuji Yamada, __Jakob Wirbel__, Petra Schrotz-King,
 Cornelia M. Ulrich, Hermann Brenner, Manimozhiyan Arumugam, Peer Bork,
 Georg Zeller, Francesca Cordero, Emmanuel Dias-Neto, João Carlos Setubal,
 Adrian Tett, Barbara Pardini, Maria Rescigno, Levi Waldron,
-Alessio Naccarati, Nicola Segata</sup>
+Alessio Naccarati, Nicola Segata</sup>  
 _Nature Medicine 2019; 25;  pages 667-678_
 
 __[Extensive transmission of microbes along the gastrointestinal tract](https://elifesciences.org/articles/42693)__  
 <sup>Thomas SB Schmidt, Matthew R Hayward, Luis P Coelho, Simone S Li, Paul I
 Costea, Anita Y Voigt, __Jakob Wirbel__, Oleksandr M Maistrenko, Renato JC
 Alves, Emma Bergsten, Carine de Beaufort, Iradj Sobhani, Anna Heintz-Buschart,
-Shinichi Sunagawa, Georg Zeller, Paul Wilmes, Peer Bork</sup>
+Shinichi Sunagawa, Georg Zeller, Paul Wilmes, Peer Bork</sup>  
 _eLife 2019; 8:e42693_
 
 ## 2018
 
 __[Phosphoproteomics-Based Profiling of Kinase Activities in Cancer Cells.](https://link.springer.com/protocol/10.1007%2F978-1-4939-7493-1_6)__  
-<sup>__Jakob Wirbel__, Pedro Cutillas, Julio Saez-Rodriguez </sup>
+<sup>__Jakob Wirbel__, Pedro Cutillas, Julio Saez-Rodriguez </sup>  
 _Cancer Systems Biology pp 103-132_
 
 ## 2015
 
 __[Red Blood Cells Preconditioned with Hemin Are Less Permissive to Plasmodium Invasion In Vivo and In Vitro](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0140805)__  
 <sup>Véronique Gaudreault, __Jakob Wirbel__, Armando Jardim, Petra Rohrbach,
-Tatiana Scorza</sup>
+Tatiana Scorza</sup>  
 _PLoS ONE 10(10): e0140805_
