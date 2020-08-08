@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a PhD candidate in the Zeller team at EMBL Heidelberg. In our
-group, we focus on computational tools and analysis strategies to investigate
-how the microbiome contributes to human health and disease and how it is shaped
-by host factors such as nutrition and drug intake.
+Hi there. I am Jakob and I am currently a PhD candidate in the Zeller team
+at EMBL Heidelberg. In our group, we focus on computational tools and analysis
+strategies to investigate how the microbiome contributes to human health and
+disease and how it is shaped by host factors such as nutrition and drug intake.
 
 My research involves method development and applying machine learning methods
-to microbiome data. For example, I have been heavily involved in the development of the
+to microbiome data. For example, I have been heavily involved in the
+development of the
 __[SIAMCAT](https://github.com/zellerlab/siamcat) R package__ (_and I am always
 happy to help with questions/bugs/feature-requests -  just drop me an
 [email](mailto:jakob.wirbel@embl.de) or
