@@ -10,8 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-## Education
-
 - _Since September 2017_  
 Ph.D candidate in the [Zeller group](https://www.embl.de/research/units/scb/zeller/)
 at EMBL  
