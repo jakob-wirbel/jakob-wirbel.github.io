@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,9 +10,15 @@ redirect_from:
 {% include base_path %}
 
 
-- _Since September 2017_  
-Ph.D candidate in the [Zeller group](https://www.embl.de/research/units/scb/zeller/)
-at EMBL  
+- _Since September 2022_  
+Postdoctoral fellow at the Stanford University School of Medicine
+in the group of [Ami Bhatt](https://www.bhattlab.com/)
+
+
+- _September 2017 - May 2022_  
+Dr. rer. nat. [German equivalent of a Ph.D.] at the European Molecular Biology Laboratory in Heidelberg
+in the group of [Georg Zeller](https://www.embl.de/research/units/scb/zeller/)
+
 
 - _October 2014 - July 2017_  
 M.S. in Molecular Biotechnology, University of Heidelberg  

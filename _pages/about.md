@@ -7,36 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-Hi there. I am Jakob and I am currently a PhD candidate in the Zeller team
-at EMBL Heidelberg. In our group, we focus on computational tools and analysis
-strategies to investigate how the microbiome contributes to human health and
-disease and how it is shaped by host factors such as nutrition and drug intake.
+Hi there. I am Jakob and I am currently a Postdoctoral fellow in the [group of
+Ami Bhatt](https://www.bhattlab.com/) at the Stanford University School of 
+Medicine. In my work, I use computational tools to investigate how the
+microbiome contributes to human health and disease, especially in the context
+of cancer. 
 
-My research involves method development and applying machine learning methods
-to microbiome data. For example, I have been heavily involved in the
-development of the
-__[SIAMCAT](https://github.com/zellerlab/siamcat) R package__ (_and I am always
-happy to help with questions/bugs/feature-requests -  just drop me an
-[email](mailto:jakob.wirbel@embl.de) or
-[open an issue](https://github.com/zellerlab/siamcat/issues/new)
-in the Github repository_), which can be used to analyse __associations between
-the microbiome and host phenotypes__ (such as disease status, for example).   
-Another project of mine focusses on the connection between the __gut
-microbiome and colorectal cancer__. Several studies have already been published
-in this field, so that the amount of publicly available data warrants a
-__meta-analysis__. Here, the question I try to answer is how consistent are
-microbiome-disease associations across different datasets and how well can a
-model trained on one dataset be transferred to another dataset.
+I obtained my PhD after working in the [group of Georg 
+Zeller](https://www.embl.de/research/units/scb/zeller/) at the 
+European Molecular Biology Laboratory (EMBL) in Heidelberg. My research there
+involved applying machine learning methods to microbiome data. For example,
+I helped to develop the __[SIAMCAT R 
+package](https://github.com/zellerlab/siamcat)__, a versatile toolbox for
+machine learning-based comparative metagenomic analyses. Another project of
+mine focused on the connection between the gut microbiome and colorectal cancer,
+where we performed a __[meta-analysis](https://www.nature.com/articles/s41591-019-0406-6)__ 
+to evaluate how consistent microbiome-disease associations are across 
+different datasets.
 
-Outside of the lab I can be found mostly in the __bouldering gym__ in
-Heidelberg or somewhere outdoors. Furthermore, some friends and I are trying
-to brew __our own beers__ at home, including two successful pale
-ales, an interesting stout, and one questionable lager so far.   
-I am reading mostly __sci-fi and fantasy__ literature (especially from
-[Alastair Reynolds](http://www.alastairreynolds.com/); if you don't know him,
-go and check out his books...) and am a fervent listener of all kinds of
-good __podcasts__, for example
-[99 percent invisible](https://99percentinvisible.org/),
-[radiolab](https://www.wnycstudios.org/shows/radiolab),
-[no such thing as a fish](https://www.nosuchthingasafish.com/), or
-[the allusionist](https://www.theallusionist.org/), to name just a few.
+Outside of the lab I enjoy everything outdoors, such as hiking, biking, or
+bouldering. I recently also discovered baking as a hobby and am reading 
+mostly sci-fi and fantasy literature (especially from 
+[Alastair Reynolds](http://www.alastairreynolds.com/)).
