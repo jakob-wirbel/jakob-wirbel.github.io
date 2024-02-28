@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jakob Wirbel"
 title_separator          : "-"
 name                     : &name "Jakob Wirbel"
-description              : &description "PhD Student at the European Molecular Biology Laboratory"
+description              : &description "Postdoctoral fellow at the Stanford University School of Medicine"
 url                      : https://jakob-wirbel.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jakob-wirbel.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jakob Wirbel"
   avatar           : "profile.jpg"
-  bio              : "PhD Student at the European Molecular Biology Laboratory"
-  location         : "Heidelberg, Germany"
+  bio              : "Postdoctoral Fellow at the Stanford University School of Medicine"
+  location         : "Stanford, California, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=jakob+wirbel"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=jakob+wirbel"
   googlescholar    : "https://scholar.google.de/citations?user=s-phdtgAAAAJ&hl=en"
-  email            : "mailto:jakob.wirbel@embl.de"
+  email            : "mailto:wirbel@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,13 +102,13 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  #orcid            : "https://orcid.org/0000-0002-4073-3562"
+  orcid            : "https://orcid.org/0000-0002-4073-3562"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "JakobWirbel"
+  twitter          : #"JakobWirbel"
   vine             :
   weibo            :
   xing             :
