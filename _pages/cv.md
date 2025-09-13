@@ -17,7 +17,7 @@ in the group of [Ami Bhatt](https://www.bhattlab.com/)
 
 - _September 2017 - May 2022_  
 Dr. rer. nat. [German equivalent of a Ph.D.] at the European Molecular Biology Laboratory in Heidelberg
-in the group of [Georg Zeller](https://www.embl.de/research/units/scb/zeller/)
+in the group of [Georg Zeller](https://zellerlab.org/)
 
 
 - _October 2014 - July 2017_  
