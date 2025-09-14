@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% include toc %}
 
 - _Since September 2022_  
 Postdoctoral fellow at the Stanford University School of Medicine

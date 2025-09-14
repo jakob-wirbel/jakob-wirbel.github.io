@@ -7,7 +7,6 @@ author_profile: true
 ---
 
 {% include base_path %}
-{% include toc %}
 
 You can also find my articles on <a href="https://scholar.google.de/citations?user=s-phdtgAAAAJ&hl=en">my Google Scholar profile</a> for a more up-to-date list.
 
