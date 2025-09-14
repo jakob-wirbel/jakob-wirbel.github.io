@@ -7,30 +7,13 @@ author_profile: true
 
 # Talks
 
-_October 2023_  
-__From Precision Microbiome Genomics to Precision Medicine__ at 
-the [CCEN-Bio2Q meeting](https://bio2q.keio.ac.jp/news/ccen-bio2q-meeting/) in Tokyo, Japan
-
-_September 2023_  
-__Gut metagenomic profiling of 1,800 African women reveals 
-novel microbial diversity and associations with cardiometabolic health__ at the [EMBO | EMBL Symposium: The Human Microbiome](https://www.embl.org/about/info/course-and-conference-office/events/ees23-08/) in Heidelberg, Germany
-
-_July 2021_  
-__Microbiome meta-analysis and cross-disease comparison enabled by the 
-SIAMCAT machine learning toolbox__ at the
-[International Human Microbiome Consortium 2021](ihmc2021.com) [virtual]
-
-_April 2019_  
-__Meta-analysis of colorectal cancer metagenomics studies reveals robust
-microbial biomarkers__ at the
-[3rd Workshop on Statistical and Algorithmic Challenges in Microbiome Data Analysis](https://www.simonsfoundation.org/event/3rd-workshop-on-statistical-and-algorithmic-challenges-in-microbiome-data-analysis/) in New York City, New York, USA  
+- _October 2023_: __From Precision Microbiome Genomics to Precision Medicine__ at the [CCEN-Bio2Q meeting](https://bio2q.keio.ac.jp/news/ccen-bio2q-meeting/) in Tokyo, Japan
+- _September 2023_:  __Gut metagenomic profiling of 1,800 African women reveals novel microbial diversity and associations with cardiometabolic health__ at the [EMBO | EMBL Symposium: The Human Microbiome](https://www.embl.org/about/info/course-and-conference-office/events/ees23-08/) in Heidelberg, Germany
+- _July 2021_: __Microbiome meta-analysis and cross-disease comparison enabled by the SIAMCAT machine learning toolbox__ at the [International Human Microbiome Consortium 2021](ihmc2021.com) [virtual]
+- _April 2019_:  __Meta-analysis of colorectal cancer metagenomics studies reveals robust microbial biomarkers__ at the [3rd Workshop on Statistical and Algorithmic Challenges in Microbiome Data Analysis](https://www.simonsfoundation.org/event/3rd-workshop-on-statistical-and-algorithmic-challenges-in-microbiome-data-analysis/) in New York City, New York, USA  
 (You can find the abstract
 [here](https://github.com/jakob-wirbel/jakob-wirbel.github.io/blob/master/files/2019-04-01_talk_sacmda.md))
-
-
-_September 2018_   
-__Meta-analysis of colorectal cancer metagenomic studies__ at
-the [EMBO | EMBL Symposium: The Human Microbiome](https://www.embo-embl-symposia.org/symposia/2018/EES18-09/) in Heidelberg, Germany  
+- _September 2018_: __Meta-analysis of colorectal cancer metagenomic studies__ at the [EMBO | EMBL Symposium: The Human Microbiome](https://www.embo-embl-symposia.org/symposia/2018/EES18-09/) in Heidelberg, Germany  
 (You can find the abstract
 [here](https://github.com/jakob-wirbel/jakob-wirbel.github.io/blob/master/files/2018-09-17_talk_embl.md))
 
