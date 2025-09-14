@@ -2,13 +2,14 @@
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
+modified: 2025-09-13
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 {% include base_path %}
-
+{% include toc %}
 
 - _Since September 2022_  
 Postdoctoral fellow at the Stanford University School of Medicine

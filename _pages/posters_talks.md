@@ -1,9 +1,13 @@
 ---
 layout: archive
 title: "Posters & Talks"
+modified: 2025-09-13
 permalink: /posters_talks/
 author_profile: true
 ---
+
+{% include base_path %}
+{% include toc %}
 
 # Talks
 

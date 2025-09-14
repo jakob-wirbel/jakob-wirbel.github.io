@@ -2,8 +2,11 @@
 layout: archive
 title: "Software"
 permalink: /software/
+modified: 2025-09-13
 author_profile: true
 ---
+
+{% include base_path %}
 
 I am the main developer for these packages:
 

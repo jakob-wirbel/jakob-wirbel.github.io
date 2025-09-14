@@ -2,9 +2,11 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
+modified: 2025-09-13
 author_profile: true
 ---
 
+{% include base_path %}
 
 _February 2020_  
 The Zeller team organized the course on metagenomic bioinformatics, the
