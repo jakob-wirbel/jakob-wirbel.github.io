@@ -24,13 +24,14 @@ Additionally, I contributed to these packages:
 __PhaVa__  
 python package for identifying phase variable invertible regions in bacterial genomes using long-read sequencing  
 [Github repository](https://github.com/patrickwest/PhaVa)  
-_Developed by Patrick T West, see [this preprint](https://www.biorxiv.org/content/10.1101/2023.11.03.565267v1.abstract)_  
+_Developed by Patrick T West, see [this paper](https://www.nature.com/articles/s41586-024-07970-4)_  
 
 
 __PHONEMeS__  
 R package to model signalling networks based on untargeted phosphoproteomic data  
 [Github repository](https://github.com/saezlab/PHONEMeS)  
 _Originally developed by Camille DA Terfve, see [this publication](https://www.nature.com/articles/ncomms9033)_
+
 
 __kinact__  
 python Toolbox for Kinase Activity Scoring based on
